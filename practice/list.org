@@ -1,0 +1,12 @@
+* getting started ;; press C-n to move to next line
+* this a 1-level title ;; press TAB to fold / unfold this title. try 3 times.
+** this a 2-level title ;; press M-<LEFT> / M-<RIGHT> to increase or descrease level of title 
+*** this a 3-level title ;; press C-c C-t to mark this title TODO. and press twice again
+* this an another 1-level title ;; press M-<UP> / M-<DOWN> to move title upwards or downwards 
+** content of this title will follow parent title.
+* TODO this is a todo item ;; press C-c C-t to mark this item DONE
+  - list item 1
+  - list item 2
+  - list item 3
+  - [ ] list item with checkbox (todo) ;; C-c C-c
+  - [X] list item with checkbox (done) ;; C-c C-c
