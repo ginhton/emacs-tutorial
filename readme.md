@@ -110,6 +110,14 @@ An old but powerful editor.
 * org reveal.js
 TODO
 
+
+## tutorial
+* inside emacs, press`C-h t`, and then follow the instructions
+* [Chinese traslate of previous tutorial](https://zhuanlan.zhihu.com/p/27299756)
+* 陈斌的 *Master Emacs in One Year*
+* *Mastering Emacs*
+* other online blog, for example, CSDN.
+
 ## exercise
 ### simple operations
 TODO
